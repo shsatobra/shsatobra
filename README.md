@@ -18,7 +18,7 @@ ___Itálico e Negrito com underline___<br>
    1. sublista
 
 [texto com imagem](https://civitai.com/images/7087667) <br>
-![imagem incorporada](https://civitai.com/images/7087667)
+![imagem incorporada](https://portaldeamericana.com/wp-content/uploads/2019/04/Sol-Foto-Marcos-Santos.jpg)
 
 <!--
 **shsatobra/shsatobra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

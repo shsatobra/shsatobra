@@ -20,6 +20,21 @@ ___Itálico e Negrito com underline___<br>
 [texto com imagem](https://civitai.com/images/7087667) <br>
 ![imagem incorporada](https://portaldeamericana.com/wp-content/uploads/2019/04/Sol-Foto-Marcos-Santos.jpg)
 
+* Lista
+  + sublista
+
+`def codeblock_example(): print("Olá mundo!")`
+
+``` def codeblock_example(): print("Olá mundo!")```
+
+> Citação
+
+| Cabeçalho 1| Cabeçalho 2|
+| -----------| -----------|
+| item 1     | Item 1     |
+| item 2     | Item 2     |
+
+
 <!--
 **shsatobra/shsatobra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

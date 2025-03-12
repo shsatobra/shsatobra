@@ -38,7 +38,7 @@ ___Itálico e Negrito com underline___<br>
 
 <center>Texto</center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Teste GitHub stats](https://github-readme-stats.vercel.app/api?username=shsatobra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

@@ -23,7 +23,7 @@ ___Itálico e Negrito com underline___<br>
 * Lista
   + sublista
 
-`def codeblock_example(): print("Olá mundo!")`
+`print("Olá mundo!")`
 
 ``` def codeblock_example(): print("Olá mundo!")```
 
@@ -34,6 +34,7 @@ ___Itálico e Negrito com underline___<br>
 | item 1     | Item 1     |
 | item 2     | Item 2     |
 
+<center>Texto</center>
 
 <!--
 **shsatobra/shsatobra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
